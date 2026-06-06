@@ -1,0 +1,4 @@
+m3u8==6.0.0
+rich==15.0.0
+textual==8.2.5
+textual-dev==1.8.0
